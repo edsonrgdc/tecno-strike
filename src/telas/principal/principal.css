@@ -1,0 +1,40 @@
+.coluna1 {
+    display: flex;
+    flex-direction: column;
+    width: 39%;
+    height: auto;
+    float: right;
+    margin-right: 50px;
+}
+
+.coluna2 {
+    display: flex;
+    flex-direction: column;
+    width: 47%;
+    height: auto;
+    margin-left: 50px;
+}
+
+.coluna1 h3 {
+    padding: 8px;
+    font-size: 30px;
+    color: white;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-top: 80px;
+    margin-bottom: 2px;
+    background-color: rgb(133, 133, 133);
+    border: solid 1px black;
+}
+
+.coluna2 h3 {
+    padding: 8px;
+    font-size: 30px;
+    color: white;
+    margin-left: 7px;
+    margin-right: 7px;
+    margin-top: 80px;
+    margin-bottom: 2px;
+    background-color: rgb(133, 133, 133);
+    border: solid 1px black;
+}

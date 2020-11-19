@@ -1,0 +1,60 @@
+.sociais {
+   display: flex;
+   justify-content: space-around;
+   margin-top: 20px;
+}
+
+.compartilheAmor {
+   margin-top: 50px;
+   background-color: rgb(182, 173, 158);
+   border: solid black 0.1px;
+   color: white;
+   text-transform: uppercase;
+   text-align: center;
+}
+
+.compartilheAmor :hover {
+   color: blue;
+   font-size: 30px;
+   transition: ease 1s;
+}
+
+.sociais button{
+   display: inline-flex;
+   justify-content: space-around;
+   padding: 20px 30px 20px 30px;
+   font-size: 35px;
+   border: black 2px solid;
+   background-color: rgb(182, 173, 158);
+   color: red;
+}
+
+.sociais button:hover {
+   padding:  25px 35px 25px 35px;
+   border-radius: 15px;
+   transition: ease 0.5s;
+}
+
+.sociais a {
+   color: white;
+}
+
+.facebook:hover{
+   background-color:#3b5998;
+}
+.instagram:hover{
+   background: linear-gradient(#515BD4, #8134AF, #DD2A7B, #FEDA77, #F58539);
+}
+.twitch:hover {
+   background-color:#9147fe;
+}
+.twitter:hover {
+   background-color: #1DA1F2;
+}
+.youtube:hover {
+   background-color: #c4302b;
+}
+   .steam:hover {
+   background-color: #00000000;
+}
+

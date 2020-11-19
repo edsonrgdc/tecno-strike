@@ -1,0 +1,49 @@
+.alinhamento {
+    padding: 50px 50px 80px 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient( rgb(99, 84, 58), rgb(99, 81, 49), rgb(136, 89, 35), rgb(182, 121, 51), rgb(236, 177, 14));
+    border: solid 1px black;
+}
+
+.alinhamento2 {
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient( rgb(48, 44, 36), rgb(99, 81, 49), rgb(136, 89, 35), rgb(182, 121, 51), rgb(236, 177, 14));
+    border: solid 1px black
+}
+
+.alinhamentoButton {
+    color: white;
+    margin-top: 15px;
+    border: solid 1px black
+}
+
+.superior {
+    text-align: center;
+    font-size: 25px;
+    padding: 10px 10px 10px 10px;
+    border: solid 3px orange;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: orange;
+    color: white;
+    background-color: rgb(0, 0, 0);
+}
+
+.superior:hover {
+  padding: 20px 20px 20px 20px;
+  transition: ease 1s;
+  border-radius: 50px;
+  background: rgb(171,166,162);
+  background: radial-gradient(circle, rgba(171,166,162,1) 8%, rgba(255,156,62,1) 74%);
+  border: solid 5px black;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+}
+
+
+
+

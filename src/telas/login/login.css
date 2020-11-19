@@ -1,0 +1,16 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 185px ;   
+    background: rgb(171,166,162);
+    background: radial-gradient(circle, rgb(219, 133, 47) 0%, rgb(119, 75, 34) 91%);
+    border: solid 3px black;
+}
+
+.butlog {
+    margin-top: 15px;
+    width: 100px;
+    height: 40px;
+    border: solid black 2px; 
+}

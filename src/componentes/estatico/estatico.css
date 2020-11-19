@@ -1,0 +1,48 @@
+.fundo {
+    width: 100%;
+    z-index: 0;
+}
+
+.pai {
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: url("../estatico/fotos/banner.jpg");
+    background-size: cover;
+}
+
+.pai img {
+    width: 150px;
+    height: 150px
+}
+.video {
+    width: 100%;
+    height: 650px; 
+}
+
+.site button {
+    background-color: orange;
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+    font-size: 30px;
+    border: solid black 4px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    color: blue;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.site button:hover {
+    background-color: yellow;
+}
+
+div .car {
+    width: 100%;
+}

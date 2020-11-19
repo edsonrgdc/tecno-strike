@@ -1,0 +1,16 @@
+.duelo {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(133, 133, 133);
+    margin-top: 10px;
+    border: solid black 2px;
+}
+
+.duelo p {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 200px;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+}

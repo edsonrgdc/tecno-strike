@@ -1,0 +1,26 @@
+.partida {
+    padding: 98px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient( rgb(99, 84, 58), rgb(99, 81, 49), rgb(136, 89, 35), rgb(182, 121, 51), rgb(236, 177, 14));
+    border: solid black 10px;
+    
+}
+
+.butCriar {
+    padding: 15px 15px 15px 15px
+}
+
+.butCriar button { 
+    padding: 7px;
+    color: white;
+    border: solid 2px black
+}
+
+.butCriar button:hover {
+    color: black;
+    border: solid 2px rgb(75, 75, 75);
+    background-color: rgb(184, 222, 255);
+}
+

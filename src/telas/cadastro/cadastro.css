@@ -1,0 +1,24 @@
+.cadastro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    background-color: rgb(80, 80, 80);
+    border: solid 3px black;
+    background: linear-gradient( rgb(99, 84, 58), rgb(99, 81, 49), rgb(136, 89, 35), rgb(182, 121, 51), rgb(236, 177, 14));
+}
+
+.cadastroBorda {
+    padding: 55px 500px 50px 500px;
+    border: solid 3px black;
+    background: linear-gradient( rgb(255, 157, 29), rgb(218, 150, 35), rgb(163, 116, 62), rgb(143, 105, 61), rgb(71, 65, 46));
+}
+
+.botao {
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    border: solid 3px black;
+}
+
+

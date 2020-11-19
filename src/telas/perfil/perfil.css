@@ -1,0 +1,51 @@
+.fotoperfil {
+    width: 210px;
+    height: 210px;
+    border: solid 5px rgb(255, 255, 255);
+}
+
+.backgroundPerfil {
+    margin-top: 70px;
+    background-image: url("https://thumbs.dreamstime.com/b/cor-bege-manchada-do-marrom-fundo-da-textura-teste-padr%C3%A3o-arte-moderna-pintura-efeito-aquarela-latte-caf%C3%A9-e-cappuc-122430740.jpg"); 
+    border: solid 7px rgb(68, 67, 67);
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.backgroundPerfil h3{
+    font-size: 30px;
+    background-image: url("https://media.istockphoto.com/vectors/brown-beige-camouflage-seamless-pattern-modern-military-camo-texture-vector-id1131514278?k=6&m=1131514278&s=170667a&w=0&h=YP-bxBtF_hdfGv3tue2PuxDKqDE32DM4roCQ-feTY-I=");
+    border: solid 2px rgb(95, 95, 95);
+    text-transform: uppercase;
+}
+
+.divSpan{
+    color: black;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("https://media.istockphoto.com/vectors/brown-beige-camouflage-seamless-pattern-modern-military-camo-texture-vector-id1131514278?k=6&m=1131514278&s=170667a&w=0&h=YP-bxBtF_hdfGv3tue2PuxDKqDE32DM4roCQ-feTY-I=");
+    border: solid 2px rgb(75, 75, 75)
+}
+
+.completo {
+    padding: 0px 10px 138px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url("https://media.istockphoto.com/vectors/grunge-camo-seamless-pattern-from-beige-and-brown-color-splashes-and-vector-id1162509319?k=6&m=1162509319&s=170667a&w=0&h=bIgkVV2c0MghTU8R6JbPVCV63NR5X4Hi131n6DTFxnA="); 
+    border: solid 5px rgb(46, 78, 45);   
+}
+
+.completo p {
+    border: solid 1px black;
+    margin-top: 221px;
+    padding: 50px 70px 50px 70px;
+    border-radius: 10px;
+    background: rgb(234,132,37);
+    background: linear-gradient(141deg, rgba(234,132,37,1) 28%, rgba(255,187,125,1) 44%, rgba(254,254,254,1) 81%);background-color: rgb(255, 255, 255);
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
+}

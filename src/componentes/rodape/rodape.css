@@ -1,0 +1,34 @@
+.rodape {
+    background-color:  rgb(56, 52, 52);
+    width:100%;
+    border: solid 1px black;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+.rodape button {
+    border: solid 1.5px black;
+    padding: 5px;
+    margin-right: 25px ;
+    background-color: rgb(138, 134, 134);
+}
+
+.rodape a {
+    color: white
+}
+
+.github:hover {
+    background-color: #333;
+}
+
+.linkedin:hover{
+    background-color: #2867B2;
+}
+
+footer {
+    font-size: 15px;
+    color: white;
+}
+
